@@ -1,0 +1,11 @@
+account_id,account_holder,account_type,balance,currency,created_at,risk_rating
+101,Alexander Vance,Corporate Checking,482950.00,USD,2025-01-14,High
+102,Elena Rostova,Private Wealth,1250000.00,USD,2025-03-22,High
+103,Marcus Sterling,Commercial Escrow,890400.50,USD,2024-11-05,High
+104,Sarah Jenkins,Personal Premier,34200.00,USD,2025-06-18,Medium
+105,David Kim,Business Treasury,750000.00,USD,2024-08-12,Low
+106,Chloe Bennett,Personal Savings,15800.25,USD,2025-02-01,Low
+107,Tariq Al-Mansoor,Corporate Checking,920150.00,USD,2024-10-30,Low
+108,Liam O'Connor,Investment Portfolio,310450.75,USD,2025-04-11,Low
+109,Amara Okafor,Merchant Settlement,640200.00,USD,2025-05-19,Low
+110,Sofia Martinez,Personal Checking,8950.00,USD,2025-07-09,Low
