@@ -1,0 +1,14 @@
+transfer_id,account_id,transfer_amount,recipient_bank,transfer_timestamp,status
+TRX-8901,101,95000.00,Standard Chartered,2026-08-01 09:14:22,Unverified
+TRX-8902,102,250000.00,Deutsche Bank,2026-08-01 11:30:05,Unverified
+TRX-8903,105,12000.00,JPMorgan Chase,2026-08-02 14:22:18,Verified
+TRX-8904,103,180000.00,HSBC Holdings,2026-08-03 08:45:50,Unverified
+TRX-8905,107,45000.00,Barclays,2026-08-03 16:10:12,Verified
+TRX-8906,104,15500.00,Santander Bank,2026-08-04 10:05:33,Unverified
+TRX-8907,106,3200.00,Citigroup,2026-08-04 12:40:00,Verified
+TRX-8908,108,88000.00,UBS Group,2026-08-05 15:18:45,Verified
+TRX-8909,109,54000.00,BNP Paribas,2026-08-05 17:55:10,Verified
+TRX-8910,110,1250.00,Wells Fargo,2026-08-06 09:02:14,Verified
+TRX-8911,101,45000.00,Bank of America,2026-08-06 13:25:30,Verified
+TRX-8912,103,75000.00,Credit Suisse,2026-08-07 11:12:08,Unverified
+
